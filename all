@@ -1,0 +1,18 @@
+
+{
+  "title": "Bakapple",
+  "description": "They are baka! They are a couple! They are a baka couple, so that makes them... a Bakapple! This is a story about a high school couple who can't contain their love for each other... and that makes them act even more stupid! Where will their pure, uninhibited, ANNOYING love take them?",
+  "artist": "SAKURA Yume",
+  "author": "SAKURA Yume",
+  "cover": "https://i.imgur.com/gxbws7o.jpg",
+  "chapters": {
+    "11": {
+      "title": "Summer break",
+      "volume": "1",
+      "groups": {
+        "TNT": "/proxy/api/imgur/chapter/t2LdUHv/"
+      },
+      "last_updated": "1620188123"
+    }
+  }
+}
